@@ -1,6 +1,8 @@
 # camel  
   
-[![Open In Colab](https://colab.research.google.com/github/K3NW48/camel/blob/main/camel_demo.ipynb)    
+[![Open In Colab]
+(https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/K3NW48/camel/blob/main/camel_demo.ipynb)    
     
 Using CAMEL ai roleplaying to work together and accomplish prompt tasks.  
   
